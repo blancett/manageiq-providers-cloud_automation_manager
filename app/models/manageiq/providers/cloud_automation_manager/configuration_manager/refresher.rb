@@ -1,4 +1,3 @@
-
 module ManageIQ::Providers
   module CloudAutomationManager
     class ConfigurationManager::Refresher < ManageIQ::Providers::BaseManager::Refresher
